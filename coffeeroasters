@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Create your plan</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fraunces 9pt:100,200,300,400,500,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header-2">
+            <a href="/" class="headers-logo"><img src="./img/Group 5 (1).svg" alt="logo" class="logo"></a> 
+             <ul class="headers-list">
+                 <li class="headers-item"><a href="/" class="headers-link">home</a></li>
+                 <li class="headers-item"><a href="/" class="headers-link">about us</a></li>
+                 <li class="headers-item"><a href="/" class="headers-link">create your plan</a></li>
+             </ul>
+         </header>
+         <main class="main">
+            <section class="coffee-section2">
+                <div class="coffee-section2__img">
+                    <div class="text3">
+                      <h1 class="coffee-section-title">
+                        Create a plan
+                      </h1>
+                      <h4 class="coffee-section-description">
+                          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis possimus ducimus laborum ullam quidem consectetur excepturi non alias maxime modi!
+                      </h4>
+                    </div>
+                  </div>
+            </section>
+            <section class="section3-2">
+                <div class="lines-parent">
+                    <div class="line1">
+                        <div  class="oval-radial first1" > </div>
+                        <div class="lines1"></div>
+                        <div  class="oval-radial second2"> </div>
+                        <div class="lines1"></div>
+                        <div  class="oval-radial third3" > </div>
+                    </div>  
+                </div>
+                <div class="general2">
+                    <div class="general-card-main2">
+                        <div class="nomer">01</div>
+                        <div class="title-card color">Pick your coffee</div>
+                        <p class="main-card-description color">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia in est earum unde cumque sit numquam fugiat magnam saepe deleniti.
+                        </p>
+                    </div>
+                    <div class="general-card-main2">
+                        <div class="nomer">02</div>
+                        <div class="title-card color">Choose the frequency</div>
+                        <p class="main-card-description color">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia in est earum unde cumque sit numquam fugiat magnam saepe deleniti.
+                        </p>
+                    </div>
+                    <div class="general-card-main2">
+                        <div class="nomer">03</div>
+                        <div class="title-card color">Receive and enjoy !</div>
+                        <p class="main-card-description color">
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cupiditate repudiandae distinctio debitis repellat, illum tenetur itaque ea amet placeat molestias.
+                        </p>
+                    </div>
+                </div>
+            </section>
+            <section class="section-for-cards">
+                <div class="generaller-div">
+                    <div class="section-for-cards-card-div">
+                        <div class="section-for-cards-card-div-child">
+                            <h2 class="section-for-cards-title">How you drink your coffee?</h2>
+                            <div class="general-cards">
+                                <div class="section-for-cards-card">
+                            <h3 class="card2-title">hello</h3>
+                            <p class="card-description">Lorem ipsum dolor sit. </p>
+                        </div>
+                        <div class="section-for-cards-card">
+                            <h3 class="card2-title"></h3>
+                            <p class="card-description">Lorem ipsum dolor sit. </p>
+                        </div>
+                        <div class="section-for-cards-card">
+                            <h3 class="card2-title"></h3>
+                            <p class="card-description">Lorem ipsum dolor sit. </p>
+                        </div>
+ 
+                            </div>
+                                               
+                        </div>
+                      
+                        <div class="section-for-cards-card-div-child">
+                            <h2 class="section-for-cards-title"></h2>
+                            <div class="general-cards">
+                                <div class="section-for-cards-card">
+                                <h3 class="card2-title">hello</h3>
+                                <p class="card-description">Lorem ipsum dolor sit. </p>
+                            </div>
+                            <div class="section-for-cards-card">
+                                <h3 class="card2-title"></h3>
+                                <p class="card-description">Lorem ipsum dolor sit. </p>
+                            </div>
+                            <div class="section-for-cards-card">
+                                <h3 class="card2-title"></h3>
+                                <p class="card-description">Lorem ipsum, consectetur </p>
+                            </div>
+                            </div>
+                            
+                            
+                        </div>
+                      
+                      <div class="section-for-cards-card-div-child">
+                        <h2 class="section-for-cards-title"></h2>
+                        <div class="general-cards">
+                            <div class="section-for-cards-card">
+                            <h3 class="card2-title"></h3>
+                            <p class="card-description">Lorem ipsum, consectetur </p>
+                        </div>
+                        <div class="section-for-cards-card">
+                            <h3 class="card2-title"></h3>
+                            <p class="card-description">Lorem ipsum, consectetur </p>
+                        </div>
+                        <div class="section-for-cards-card">
+                            <h3 class="card2-title"></h3>
+                            <p class="card-description">Lorem ipsum, consectetur </p>
+                        </div>
+                        </div>
+                        
+                        
+                      </div>
+                    
+                      <div class="section-for-cards-card-div-child">
+                        <h2 class="section-for-cards-title"></h2>
+                        <div class="general-cards">
+                            <div class="section-for-cards-card">
+                            <h3 class="card2-title">dfg</h3>
+                            <p class="card-description">Lorem ipsum, consectetur </p>
+                        </div>
+                        <div class="section-for-cards-card">
+                            <h3 class="card2-title"></h3>
+                            <p class="card-description">Lorem ipsum, consectetur </p>
+                        </div>
+                        <div class="section-for-cards-card">
+                            <h3 class="card2-title"></h3>
+                            <p class="card-description">Lorem ipsum, consectetur </p>
+                        </div>
+                        </div>
+                        
+                        
+                      
+                      </div>
+                      
+                    </div>
+                </div>
+            </section>
+         </main>
+         <footer class="footer2">
+
+         </footer>
+    </div>
+</body>
+</html>
